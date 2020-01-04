@@ -1,2 +1,1 @@
-# landingsim
 reinforcement learning
