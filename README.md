@@ -3,7 +3,7 @@
 
 > Evaluating the viability of using Deep Reinforcement Learning to land orbital rocket boosters
 
-### A work in progress
+#### A Work in Progress
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
@@ -34,6 +34,8 @@ This section should list any major frameworks that you built your project using.
 * [OpenAI Gym](https://github.com/openai/gym)
 * [Unreal Engine 4](https://www.unrealengine.com/)
 * [Gym-UnrealCV](https://github.com/zfw1226/gym-unrealcv)
+
+![framework](/media/framework.jpeg)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
