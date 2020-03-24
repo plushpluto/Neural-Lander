@@ -30,10 +30,13 @@ Of course, no one template will serve all projects since your needs may be diffe
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [OpenAI Gym](https://github.com/openai/gym)
 * [Unreal Engine 4](https://www.unrealengine.com/)
 * [Gym-UnrealCV](https://github.com/zfw1226/gym-unrealcv)
+
+- ```UnrealCV``` is the basic bridge between ```Unreal Engine``` and ```OpenAI Gym```.
+- ```OpenAI Gym``` is a toolkit for developing RL algorithm, compatible with most of numerical computation library, such as TensorFlow or PyTorch. 
+
 
 ![framework](/media/framework.jpeg)
 
