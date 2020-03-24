@@ -6,7 +6,6 @@
 #### A Work in Progress
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
 
 
 ## Table of Contents
