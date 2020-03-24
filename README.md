@@ -1,4 +1,4 @@
-![profile](/media/oof.png) 
+![landing](/media/unreal.gif)
 
 # Neural Lander
 ### work in progress
@@ -7,6 +7,5 @@
 
 ![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)
 
-![landing](/media/unreal.gif)
 
 
