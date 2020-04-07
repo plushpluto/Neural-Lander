@@ -1,7 +1,7 @@
 
 # Neural Lander
 
-> Evaluating the viability of using Deep Reinforcement Learning to land orbital rocket boosters
+> Evaluating the usability of Reinforcement learning to land orbital rocket boosters
 
 #### A Work in Progress
 
